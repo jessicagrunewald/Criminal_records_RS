@@ -1,69 +1,112 @@
 :small_blue_diamond: 🇵🇹
-### Registros de ocorrências criminais do Estado do Rio Grande do Sul/Brasil<br>
+# :small_blue_diamond: **Registros de Ocorrências Criminais - Estado do Rio Grande do Sul/Brasil**
 
-#### Objetivo do projeto
+Este projeto tem como objetivo realizar uma análise descritiva dos registros de ocorrências criminais no ano de **2024 (janeiro a junho)**, no estado do **Rio Grande do Sul/Brasil**.
 
-Esse projeto tem como objetivo a análise descritiva dos registros de ocorrêncas criminais nno ano de 2024 (janeiro a junho), no estado do Rio Grande do Sul/Brasil.<br><br>
+---
 
-#### Fonte de dados
+## 📋 **Objetivo do Projeto**
 
-Como fonte de dados, foram utilizadas bases de dados públicas disponibilizadas pela Secretaria da Segurança Pública do Estado do Rio Grande do Sul.
+- Analisar descritivamente os registros de ocorrências criminais de janeiro a junho de 2024 no estado do Rio Grande do Sul.
 
-:file_folder: Link para acesso a base de dados [aqui](https://ssp.rs.gov.br/dados-abertos)
+---
 
-:computer: Foi realizada uma primeira etapa de edição e limpeza de dados através da linguagem de programação <strong>python</strong> utilizando o <strong>Google Colab</strong>.
-<br>
-<br>
+## 📊 **Fonte de Dados**
 
-#### Dashboard
-A ferramenta <strong>Microsoft PowerBI</strong> foi utilizada para a segunda etapa de limpeza e tratamento dos dados e construção do dashboard.
-O dashboard busca responder as seguintes questões:
-<ul>
-  <li> Total de ocorrências</li>
-  <li> Principais tipos de ocorrências</li>
-  <li> Locais (Município - Bairro) com maiores números de ocorrências</li>
-  <li> Total de ocorrências por mês</li>
-</ul>
-Além disso, é possível filtrar as informações específicas de cada Município, Tipo de Ocorrência e Data do registro.<br><br>
+Os dados utilizados são públicos e foram disponibilizados pela **Secretaria da Segurança Pública do Estado do Rio Grande do Sul**.
 
-:bar_chart: Link para acesso ao dashboard [aqui](https://app.powerbi.com/view?r=eyJrIjoiMzdjNTVlZDctNTk1ZS00YjBjLWFiYmMtODIzNTBjMTYwMjdhIiwidCI6IjA3M2ZmOGM0LWExZDEtNDNiYi1iODNmLWQyNTQ0YmMzODZiMCIsImMiOjh9)<br><br>
+📁 **Link para acesso à base de dados**: [Clique aqui](https://ssp.rs.gov.br/dados-abertos)
 
-Abaixo é possível visualizar uma prévia do dashboard. <br><br>
+💻 **A primeira etapa de edição e limpeza dos dados foi realizada com a linguagem de programação Python utilizando o Google Colab.**
 
-![foto](/dashboard.JPG)
-</br></br></br></br>
+---
 
-:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+## 📊 **Dashboard**
 
-### Criminal records of the State of Rio Grande do Sul/Brazil<br>
+A ferramenta **Microsoft Power BI** foi utilizada para:
 
-#### Objective of the project
+- **Limpeza e tratamento dos dados.**
+- **Construção do dashboard interativo.**
 
-This project aims to perform a descriptive analysis of criminal records in the year 2024 (January to June), in the state of Rio Grande do Sul/Brazil.<br><br>
+### 📌 **O Dashboard Responde:**
 
-#### Data source
+- Total de ocorrências.
+- Principais tipos de ocorrências.
+- Locais (Município - Bairro) com os maiores números de ocorrências.
+- Total de ocorrências por mês.
 
-As a data source, public databases made available by the Public Security Secretariat of the State of Rio Grande do Sul were used.
+Além disso, é possível filtrar as informações específicas por **Município**, **Tipo de Ocorrência** e **Data do Registro**.
 
-:file_folder: Link to access the database [here](https://ssp.rs.gov.br/dados-abertos)
+---
 
-:computer: A first stage of editing and cleaning of data was carried out using the <strong>python</strong> programming language using <strong>Google Colab</strong>. <br>
-<br>
+### 📊 **Link para o Dashboard**
 
-#### Dashboard
-The <strong>Microsoft PowerBI</strong> tool was used for the second stage of data cleaning and processing and construction of the dashboard.
-The dashboard seeks to answer the following questions:
-<ul>
-<li> Total number of occurrences</li>
-<li> Main types of occurrences</li>
-<li> Locations (Municipality - Neighborhood) with the highest number of occurrences</li>
-<li> Total number of occurrences per month</li>
-</ul>
-In addition, it is possible to filter the specific information for each Municipality, Type of Occurrence and Date of registration.<br><br>
+:bar_chart: Acesse o dashboard interativo clicando no link abaixo:
 
-:bar_chart: Link to access the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzdjNTVlZDctNTk1ZS00YjBjLWFiYmMtODIzNTBjMTYwMjdhIiwidCI6IjA3M2ZmOGM0LWExZDEtNDNiYi1iODNmLWQyNTQ0YmMzODZiMCIsImMiOjh9)<br><br>
+[**Acesse o Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzdjNTVlZDctNTk1ZS00YjBjLWFiYmMtODIzNTBjMTYwMjdhIiwidCI6IjA3M2ZmOGM0LWExZDEtNDNiYi1iODNmLWQyNTQ0YmMzODZiMCIsImMiOjh9)
 
-Below you can see a preview of the dashboard. <br><br>
+---
 
-![photo](/dashboard.JPG)
-</br></br></br></br>
+## 🖼️ **Prévia do Dashboard**
+
+<p align="center">
+  <img src="dashboard.JPG" alt="Prévia do Dashboard" width="70%">
+</p>
+
+---
+
+🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹
+
+# :small_blue_diamond: **Criminal Records - State of Rio Grande do Sul/Brazil**
+
+This project aims to perform a descriptive analysis of criminal records for the year **2024 (January to June)** in the state of **Rio Grande do Sul/Brazil**.
+
+---
+
+## 📋 **Project Objective**
+
+- Descriptively analyze criminal records from January to June 2024 in the state of Rio Grande do Sul.
+
+---
+
+## 📊 **Data Source**
+
+The data used is public and was provided by the **Public Security Secretariat of the State of Rio Grande do Sul**.
+
+📁 **Link to access the database**: [Click here](https://ssp.rs.gov.br/dados-abertos)
+
+💻 **The first stage of data editing and cleaning was performed using the Python programming language in Google Colab.**
+
+---
+
+## 📊 **Dashboard**
+
+The **Microsoft Power BI** tool was used to:
+
+- **Clean and process the data.**
+- **Build the interactive dashboard.**
+
+### 📌 **The Dashboard Answers:**
+
+- Total number of occurrences.
+- Main types of occurrences.
+- Locations (Municipality - Neighborhood) with the highest number of occurrences.
+- Total number of occurrences per month.
+
+Additionally, it is possible to filter specific information by **Municipality**, **Type of Occurrence**, and **Date of Registration**.
+
+---
+
+### 📊 **Link to the Dashboard**
+
+:bar_chart: Access the interactive dashboard by clicking the link below:
+
+[**Access the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzdjNTVlZDctNTk1ZS00YjBjLWFiYmMtODIzNTBjMTYwMjdhIiwidCI6IjA3M2ZmOGM0LWExZDEtNDNiYi1iODNmLWQyNTQ0YmMzODZiMCIsImMiOjh9)
+
+---
+
+## 🖼️ **Dashboard Preview**
+
+<p align="center">
+  <img src="dashboard.JPG" alt="Dashboard Preview" width="70%">
+</p>
